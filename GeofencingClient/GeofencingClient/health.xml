@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with EditiX at Tue May 31 13:54:58 IST 2011 -->
+
+<PlaceSearchResponse>
+	<result>
+		<name>Vatsalya Hospital</name>
+		<address>Main Road, Somalwada, Nagpur, Maharashtra, 440025</address>		
+		<type>health</type>		
+		<lat>21.095846</lat>
+		<lng>79.077119</lng>		
+		<distance>1500</distance>
+		<icon>http://vaatsalya.com/2009/sites/default/files/vaatsalya.gif</icon>
+		<id>1234FF22134F</id>
+	</result>
+	<result>
+		<name>Roy Nursing Home</name>
+		<address>1, NH 7, Rajiv Nagar, Somalwada, Nagpur, Maharashtra, 440015</address>
+		<phone>0712-2290888</phone>
+		<type>health</type>		
+		<lat>21.100318</lat>
+		<lng>79.066935</lng>		
+		<distance>2500</distance>		
+		<id>1234EDDEGA</id>
+	</result>
+	<result>
+		<name>Naik Hospital</name>
+		<address>Central Excise Colony, Bhagwan Nagar, Nagpur, Maharashtra, 440015</address>
+		<phone>0712-2285284/954</phone>
+		<type>health</type>
+		<lat>21.109866</lat>
+		<lng>79.094937</lng>		
+		<distance>3100</distance>		
+		<id>89123F234F</id>
+	</result>
+	<result>
+		<name>Orange City Hospital</name>
+		<address>19,Pande Layout, Veer Swarkar Square, Nagpur, Maharashtra, 440015</address>
+		<type>health</type>
+		<phone>0712-2238431</phone>
+		<lat>21.112792</lat>
+		<lng>79.065484</lng>		
+		<distance>3700</distance>
+		<icon>http://www.ochri.com/media/images/img-logo-orangecity.jpg</icon>
+		<id>90123423ED</id>
+	</result>
+	<result>
+		<name>Galaxy Vidarbha Diagnostics Pvt Ltd</name>
+		<address>Milestone Building, Ground Floor, Near Lokmat Square, Wardha Road, Nagpur, Maharashtra 440012</address>
+		<type>health</type>
+		<phone>0712-2452570</phone>
+		<lat>21.110852</lat>
+		<lng>79.070092</lng>		
+		<distance>3700</distance>		
+		<id>12343423ED</id>
+	</result>
+</PlaceSearchResponse>

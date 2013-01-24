@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with EditiX at Tue May 31 13:54:58 IST 2011 -->
+
+<PlaceSearchResponse>
+	<result>
+		<name>State Bank Of India</name>
+		<address>Shanti Heights, Harihar Nagar, Besa, Somalwada, Nagpur, Maharashtra</address>
+		<type>bank</type>
+		<type>atm</type>
+		<lat>21.08814</lat>
+		<lng>79.081024</lng>		
+		<distance>569</distance>
+		<icon>http://www.topnews.in/files/sbi-logo_3.jpg</icon>
+		<id>1234234F</id>
+	</result>
+	<result>
+		<name>Bank Of Maharashtra</name>
+		<address>Plot No.9 Mayasmruti, Wardha Road, Somalwada, Nagpur, 440025, Maharashtra</address>
+		<type>bank</type>
+		<type>atm</type>
+		<lat>21.09255</lat>
+		<lng>79.06549</lng>		
+		<distance>2200</distance>
+		<icon>http://www.bankofmaharashtra.in/images/new_01.jpg</icon>
+		<id>1234EDA</id>
+	</result>
+	<result>
+		<name>State Bank Of India</name>
+		<address>Tapovan Complex, Jaiprakash Nagar, Nagpur, Maharashtra</address>
+		<type>bank</type>
+		<type>atm</type>
+		<lat>21.10189</lat>
+		<lng>79.06299</lng>		
+		<distance>3000</distance>
+		<icon>http://www.topnews.in/files/sbi-logo_3.jpg</icon>
+		<id>123F234F</id>
+	</result>
+	<result>
+		<name>IDBI Bank</name>
+		<address>Sawarkar Nagar, Vivekanand Nagar, Nagpur, 440015, Maharashtra</address>
+		<type>bank</type>
+		<type>atm</type>
+		<lat>21.11264</lat>
+		<lng>79.07020</lng>		
+		<distance>3500</distance>
+		<icon>http://www.maharashtraspider.com/attachments/Resources/6004-24020-IDBI-Bank-Logo.gif</icon>
+		<id>123423ED</id>
+	</result>
+</PlaceSearchResponse>

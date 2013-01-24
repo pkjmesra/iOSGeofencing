@@ -3,5 +3,3 @@ A geofencing server that can run on a Mac (SDK 10.7 or above). When running, thi
 By default, it would run on 1208. So you can just run and check your Mac browser on http://127.0.0.1:1208 for all the APIs that this server will expose for its iOS clients.
 
 You'd need to add your own apns.cer push notification certificate to be able to use push notification services.
-
-The GeofencingClient can be run on any iOS client like iPhone and can then be pointed to the server IP and port as specified above.

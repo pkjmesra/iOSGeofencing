@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with EditiX at Tue May 31 13:54:58 IST 2011 -->
+
+<PlaceSearchResponse>
+	<result>
+		<name>Kratin Roots to Wings</name>
+		<address>Plot No. 75, Rajgruh Co.operative Housing Soceity, Somalwada, Besa Road, Nagpur, Maharashtra, 440025</address>	
+		<phone>07103-203006</phone>	
+		<type>education</type>		
+		<lat>21.087715</lat>
+		<lng>79.078616</lng>		
+		<distance>685</distance>
+		<icon>http://t1.gstatic.com/images?q=tbn:ANd9GcQct6PmIH1H0tPgWztuMKN10G1W3C0CWd1FVSBFFdPim_QyMAY6</icon>
+		<id>1904FF22134F</id>
+	</result>
+	<result>
+		<name>Dadasaheb Balpande College Of Pharmacy</name>
+		<address>near Swami Samarth Dham Mandir, Besa, Nagpur, Maharashtra, 440034</address>
+		<phone>07103-281156</phone>
+		<type>education</type>		
+		<lat>21.090068</lat>
+		<lng>79.091461</lng>		
+		<distance>1000</distance>	
+		<icon>http://www.dsbcp.org/images/top.jpg</icon>	
+		<id>19034EDDEGA</id>
+	</result>
+	<result>
+		<name>VT Convent School</name>
+		<address>Joginagar, Badil Kheda, Nagpur, Maharashtra</address>
+		<phone>0712-3296904/2243676</phone>
+		<type>education</type>
+		<lat>21.103276</lat>
+		<lng>79.085077</lng>		
+		<distance>2100</distance>	
+		<icon>http://www.vtconvent.com/page/images/header2.jpg</icon>	
+		<id>878123F234F</id>
+	</result>
+	<result>
+		<name>Central Institute Of Business Management Research And Development</name>
+		<address>Pawanbhumi, Wardha Road, Nagpur, Maharashtra, 440025</address>
+		<phone>0712-2289913</phone>
+		<type>education</type>		
+		<lat>21.100178</lat>
+		<lng>79.071226</lng>		
+		<distance>2200</distance>
+		<icon>http://www.cibmrd.com/media/images/header_01.jpg</icon>
+		<id>9090123423ED</id>
+	</result>
+	<result>
+		<name>Shankarrao Dhawad Polytechnic</name>
+		<address>Jaiprakash Nagar, Wardha Road, Nagpur, Maharashtra 440015</address>
+		<type>education</type>
+		<phone>0712-2291682</phone>
+		<lat>21.102848</lat>
+		<lng>79.066962</lng>		
+		<distance>2800</distance>	
+		<icon>http://t0.gstatic.com/images?q=tbn:ANd9GcR8wi27-WFxgbILpb59FODabV61cNGxgn1ESQsE287ZjTnir3zc&amp;t=1</icon>			
+		<id>12343423ED</id>
+	</result>
+	<result>
+	<name>Smart Kids Convent</name>
+	<address>Plot No. 8, Shriram Nagar, Pawanbhumi, Somalwada, Nagpur, Maharashtra, 440025</address>
+	<phone>0712-2247562</phone>
+	<type>education</type>
+	<lat>21.092743</lat>
+	<lng>79.074394</lng>
+	<distance>1400</distance>
+	<id>234774NNK0</id>
+	</result>
+</PlaceSearchResponse>

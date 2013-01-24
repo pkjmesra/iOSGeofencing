@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with EditiX at Tue May 31 13:54:58 IST 2011 -->
+
+<PlaceSearchResponse>
+	<result>
+		<name>Hotel Pride</name>
+		<address>Opposite Airport, Wardha Road, Nagpur, Maharashtra, 440025</address>
+		<phone>+91-712-2291102/06</phone>
+		<type>restaurant</type>		
+		<lat>21.086937</lat>
+		<lng>79.064464</lng>		
+		<distance>2100</distance>
+		<icon>http://www.hotelclub.com/HCRefreshAshx/ThumbNail.ashx?square=true&amp;s=75&amp;imgid=1146272</icon>
+		<id>1023422134F</id>
+	</result>
+	<result>
+		<name>Hotel Airport Centre Point</name>
+		<address>131/1, Wardha Road, Adjacent to Airport,Nagpur, Maharashtra, 440025</address>
+		<phone>+91- 712-2284041/48</phone>
+		<type>restaurant</type>		
+		<lat>21.094289</lat>
+		<lng>79.065167</lng>		
+		<distance>2300</distance>
+		<icon>http://www.centrepointgroup.org/media/images/airport.gif</icon>
+		<id>16234EDA</id>
+	</result>
+	<result>
+		<name>Amarjeet Resorts Airport Centre Point</name>
+		<address>Wardha Road, 131/1, Adjacent to Airport, Nagpur, Maharashtra, 440025</address>
+		<phone>0712-2284041</phone>
+		<type>restaurant</type>
+		<lat>21.094302</lat>
+		<lng>79.065510</lng>		
+		<distance>2300</distance>
+		<!--icon></icon-->
+		<id>1923F234F</id>
+	</result>
+	<result>
+		<name>Kamat Hotels</name>
+		<address>7 Dhantoli, Wardha Road, Nagpur, Maharashtra, 440012</address>
+		<type>restaurant</type>
+		<phone>0712-2452891</phone>
+		<lat>21.110872</lat>
+		<lng>79.070100</lng>		
+		<distance>3300</distance>
+		<icon>http://www.khil.com/hospitality-management/images/logo.jpg</icon>
+		<id>123423ED</id>
+	</result>
+	<result>
+		<name>Marv Home</name>
+		<address>8A, Behind Bank Of Maharashtra, Karve Nagar, Wardha Road, Nagpur, Maharashtra, 440025</address>
+		<type>restaurant</type>
+		<phone>0712-2293741</phone>
+		<lat>21.114643</lat>
+		<lng>79.071382</lng>		
+		<distance>3700</distance>
+		<icon>http://lh5.googleusercontent.com/public/DdGb0cXKKuk3N27A_eiFpPIvG2SE8fMJ-BdLbQCIMKLKFfNuMgKx5wWYOu0nCYlpta94uykVgFfwBVIoTZIeXYd7gTRF3Pq9HzTfqjmg6e9d</icon>
+		<id>18923423ED</id>
+	</result>
+</PlaceSearchResponse>
